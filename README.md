@@ -1,4 +1,4 @@
 # Student-demo
 This is my first repository!
 <br>
-Author - Wakil
+Author - Wakil  {student-demo}
